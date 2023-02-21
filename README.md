@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 💬 Ask me about ...-->
 - 🌱 I’m currently learning Frontend Development Skills.
-- 📫 How to reach me: mary990t@gmail.com
+- 📫 How to reach me: prkzoe@gmail.com
 
 
