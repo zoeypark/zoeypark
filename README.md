@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 💬 Ask me about ...-->
-- 🌱 I’m currently learning Frontend Development Skills.
+- 🌱 I’m currently studying Typescript.
 - 📫 How to reach me: prkzoe@gmail.com
 
 
